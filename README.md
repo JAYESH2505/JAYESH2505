@@ -27,11 +27,11 @@ Here are some of my exciting projects you can explore:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JAYESH2505&show_icons=true&locale=en&layout=compact" alt="jeevanjoshi4434" /></p>
 
 ## 📬 Get in Touch
-Twitter
+Twitter: https://x.com/Jayesh_Pathak_
 
 LinkedIn: https://www.linkedin.com/in/jayesh-pathak-7b34532b4/
 
-Email: 
+Email: jayeshpathak236@gmail.com
 
 Feel free to reach out if you'd like to collaborate or chat about technology, gaming, or trading!
 
