@@ -27,7 +27,7 @@ Here are some of my exciting projects you can explore:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JAYESH2505&show_icons=true&locale=en&layout=compact" alt="jeevanjoshi4434" /></p>
 
 ## 📬 Get in Touch
-Twitter: https://x.com/Jayesh_Pathak_
+Twitter: [https://x.com/Jayesh_Pathak_](https://x.com/Jayesh_Pathak_)
 
 LinkedIn: https://www.linkedin.com/in/jayesh-pathak-7b34532b4/
 
