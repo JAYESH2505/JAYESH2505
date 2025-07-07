@@ -42,3 +42,4 @@ Trading strategies and market analysis for better profitability.
 
 ## 💡 Fun Fact
 I love gaming and currently specialize in playing sniper roles in Call of Duty Mobile.
+I also play marvel rivals and valorant
