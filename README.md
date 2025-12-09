@@ -23,9 +23,6 @@ Here are some of my exciting projects you can explore:
 
 * Recognition: A recognition system for identifying human-body landmarks using machine learning.
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JAYESH2505&show_icons=true&locale=en&layout=compact" alt="jeevanjoshi4434" /></p>
-
 ## 📬 Get in Touch
 Twitter: [https://x.com/Jayesh_Pathak_](https://x.com/Jayesh_Pathak_)
 
