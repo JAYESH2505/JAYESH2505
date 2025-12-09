@@ -41,37 +41,50 @@ Currently, I'm focusing on **brain tumor detection using CNN + ResNet**, improvi
 
 ## 📂 Featured Projects
 
-### 🧠 **Brain Tumor Detection using CNN & ResNet**
-A deep learning system built using **PyTorch**, **ResNet**, and **Computer Vision** to detect brain tumors from MRI scans.  
-Includes preprocessing, feature extraction, and classification — demonstrating real-world AI application in the medical domain.
+<a href="https://github.com/JAYESH2505/Brain_Tumor_CNN">
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60" />
+  <h3>🧠 Brain Tumor Detection using CNN & ResNet</h3>
+</a>
+
+A deep learning model built with **PyTorch**, **ResNet**, and **Computer Vision** to detect brain tumors from MRI images.  
+Preprocessing → Feature Extraction → Classification.
 
 ---
 
-### 🎮 **Games with C++ & SFML**
-A series of interactive 2D games created using **C++** and **SFML**.  
-These projects include event handling, animation, physics logic, and object-oriented design — showcasing strong fundamentals in C++ and game engine structure.
+<a href="https://github.com/JAYESH2505/Games-CPP-SFML">
+  <img align="left" src="https://cdn.simpleicons.org/sfml/4F4F4F" width="60" />
+  <h3>🎮 Games with C++ & SFML</h3>
+</a>
+
+A collection of interactive 2D games made with **C++** and **SFML**.  
+Includes animations, collision detection, rendering logic, and event handling.
 
 ---
 
-### 🧱 **Advanced C/C++ Projects**
-A collection of systems-level programming projects including:  
-✔ Custom memory allocators  
-✔ JSON exporters for Abstract Syntax Trees  
-✔ Compiler-style node structures  
-✔ Algorithmic utilities and custom data structures  
+<a href="https://github.com/JAYESH2505/Advance-C-Cpp-Project">
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" />
+  <h3>🧱 Advanced C/C++ System Projects</h3>
+</a>
 
-These projects reflect deep understanding of low-level programming and problem-solving.
+Low-level projects including memory allocators, JSON exporters for ASTs, compiler-style structures, and algorithmic utilities.
 
 ---
 
-### 🤖 **Human Body Landmark Detection**
-A machine learning project utilizing **OpenCV** and deep learning to identify human body keypoints such as elbows, shoulders, knees, etc.  
-Useful for gesture detection, fitness analysis, and computer-vision based tracking.
+<a href="https://github.com/JAYESH2505/Recognition">
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="60" />
+  <h3>🤖 Human Body Landmark Detection</h3>
+</a>
+
+Uses **OpenCV** + ML models to detect human body keypoints like elbows, shoulders, and knees for gesture/movement analysis.
 
 ---
 
-### 🌐 **Portfolio Website**
-A clean and modern portfolio website built using **HTML, CSS, and JavaScript**, showcasing your skills, experience, and projects.
+<a href="https://github.com/JAYESH2505/Portfolio">
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" />
+  <h3>🌐 Portfolio Website</h3>
+</a>
+
+A clean personal website built with **HTML/CSS/JS** to showcase your work, skills, and projects.
 
 ---
 
