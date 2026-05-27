@@ -1,134 +1,182 @@
-<h1 align="center">Hi, I'm Jayesh! 👋</h1>
+# <h1 align="center">Jayesh Pathak</h1>
 
 <p align="center">
-  Developer • Deep Learning Enthusiast • Content Creator • Aspiring Trader  
+  <b>Systems Programming • Quant Research • AI Engineering</b>
 </p>
 
-I'm passionate about building things — whether it's software, AI models, games, or content.  
-I work across **C/C++, Python, Deep Learning, Computer Vision, and Frontend Development**, and I love learning new technologies that let me create even more.
+<p align="center">
+  Building low-level systems, AI-powered trading tools, and machine learning applications.
+</p>
 
-Currently, I'm focusing on **brain tumor detection using CNN + ResNet**, improving my core programming skills, and exploring ways to blend creativity with tech.
-
----
-
-## 🚀 Technologies & Tools
-
-### 🧩 Languages
-
-| Python | C | C++ | JavaScript | HTML | CSS | PHP |
-|--------|----|-----|-------------|------|------|------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"> |
-
-
-### 🧰 Frameworks & Libraries
-
-| PyTorch | React | OpenCV | SFML |
-|---------|--------|---------|--------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40"> | <img src="https://cdn.simpleicons.org/sfml/4F4F4F" width="40"> |
-
-
-### 🛠️ Tools
-
-| Git | GitHub | VS Code | Jupyter |
-|------|---------|----------|-----------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"> |
-
-
-### **Other Interests**
-• Trading • Gaming • AR/VR Exploration • Content Creation
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=C%2FC%2B%2B+Systems+Developer;Quant+Research+Builder;Deep+Learning+Enthusiast;AI+%26+Trading+Tooling" />
+</p>
 
 ---
 
-## 📂 Featured Projects
+# 🚀 About Me
 
-<a href="https://github.com/JAYESH2505/Brain_Tumor_CNN">
-  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60" />
-  <h3>🧠 Brain Tumor Detection using CNN & ResNet</h3>
-</a>
+* Building projects around **AI, Quant Research, Systems Programming, and Trading Infrastructure**
+* Interested in **low-level engineering, deep learning, backtesting systems, and agentic workflows**
+* Currently focused on:
 
-A deep learning model built with **PyTorch**, **ResNet**, and **Computer Vision** to detect brain tumors from MRI images.  
-Preprocessing → Feature Extraction → Classification.
-
----
-
-<a href="https://github.com/JAYESH2505/Games-CPP-SFML">
-  <img align="left" src="https://cdn.simpleicons.org/sfml/4F4F4F" width="60" />
-  <h3>🎮 Games with C++ & SFML</h3>
-</a>
-
-A collection of interactive 2D games made with **C++** and **SFML**.  
-Includes animations, collision detection, rendering logic, and event handling.
+  * Quantitative research tools
+  * AI agents for financial workflows
+  * Advanced C/C++ systems programming
+  * Deep learning & computer vision
 
 ---
 
-<a href="https://github.com/JAYESH2505/Advance-C-Cpp-Project">
-  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" />
-  <h3>🧱 Advanced C/C++ System Projects</h3>
-</a>
+# 🛠️ Tech Stack
 
-Low-level projects including memory allocators, JSON exporters for ASTs, compiler-style structures, and algorithmic utilities.
+## Languages
 
----
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,sql,html,css" />
+</p>
 
-<a href="https://github.com/JAYESH2505/Recognition">
-  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="60" />
-  <h3>🤖 Human Body Landmark Detection</h3>
-</a>
+## Frameworks & Libraries
 
-Uses **OpenCV** + ML models to detect human body keypoints like elbows, shoulders, and knees for gesture/movement analysis.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv,react,fastapi" />
+</p>
 
----
+## Tools & Platforms
 
-<a href="https://github.com/JAYESH2505/Portfolio">
-  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" />
-  <h3>🌐 Portfolio Website</h3>
-</a>
-
-A clean personal website built with **HTML/CSS/JS** to showcase your work, skills, and projects.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,jupyter" />
+</p>
 
 ---
 
-## 📬 Get in Touch
+# ⭐ Featured Projects
 
-📌 **Twitter:** https://x.com/Jayesh_Pathak_  
-📌 **LinkedIn:** https://www.linkedin.com/in/jayesh-pathak-7b34532b4/  
-📌 **Email:** jayeshpathak236@gmail.com  
+## 🤖 Agentic AI Quant Research System
 
-I'm always open to collaboration, tech talk, and new opportunities!
+AI-powered multi-agent research workflow for quantitative trading and market analysis.
+
+### Highlights
+
+* Multi-agent orchestration for financial research
+* Automated market data analysis
+* Signal generation workflows
+* Research summarization using LLM pipelines
+* Modular architecture for strategy experimentation
+
+**Tech Stack:** Python • SQL • Pandas • FastAPI • LLM Workflows
 
 ---
 
-## 🌱 Currently Learning
-- Advanced deep learning for real-world applications  
-- Trading strategies + market structure  
-- Improving efficiency and problem-solving through consistent practice  
+## 📈 SQL-Based Backtesting Engine
+
+Event-driven backtesting engine designed for strategy evaluation and historical market analysis.
+
+### Highlights
+
+* SQL-powered historical querying
+* Strategy evaluation framework
+* Portfolio performance analytics
+* Trade logging and metrics tracking
+* Modular strategy integration
+
+**Tech Stack:** Python • SQL • Pandas • Data Analysis
 
 ---
 
-## ⭐ Fun Facts
+## 🧱 Advanced C/C++ Systems Projects
 
-### 🔫 Gaming Fun Facts
-- I’m the guy who picks the sniper and actually lands the shots 😎  
-- My aim is better in games than in real-life decisions 💀  
-- I’ve successfully carried random teammates who didn’t even have mics.  
+Low-level engineering projects focused on memory management, compiler-style structures, and system utilities.
 
-### 🧠 Tech Fun Facts
-- I break code more often than the deadline breaks me.  
-- My debugging skills activate only after 2 AM.  
-- I create bugs faster than AI can generate solutions.  
+### Highlights
 
-### 📈 Trading Fun Facts
-- I check charts even when I’m not supposed to.  
-- Lost money → improved strategy → still lost → never gave up.  
-- My dream is to be profitable… consistently. One day. 💸🔥  
+* AST (Abstract Syntax Tree) implementations
+* Memory arena allocators
+* JSON exporters for AST structures
+* Compiler-inspired parsing workflows
+* Performance-oriented utilities
 
-### 🐍 Coding Fun Facts
-- I write C/C++ for fun… yes, I know that’s weird.  
-- “I'll fix it later” is my most used phrase.  
-- I talk to my PC like it understands me (sometimes it does).  
+**Tech Stack:** C • C++ • Systems Programming
 
-### 🎮 Life & Personality Fun Facts
-- My sleep cycle is more volatile than Bitcoin.  
-- I can survive a whole day on just coffee and motivation.  
-- I’m the type of person who sets 10 alarms and still sleeps through all of them.  
+---
 
+## 🧠 Brain Tumor Detection using CNN & ResNet
+
+Deep learning project for MRI-based brain tumor detection using convolutional neural networks and ResNet architectures.
+
+### Highlights
+
+* MRI image preprocessing
+* CNN + ResNet architecture integration
+* Feature extraction pipeline
+* Classification workflow using PyTorch
+
+**Tech Stack:** Python • PyTorch • OpenCV • Deep Learning
+
+---
+
+## 🤖 Human Body Landmark Detection
+
+Computer vision system for detecting human body keypoints and gesture-related landmarks.
+
+### Highlights
+
+* Real-time landmark detection
+* OpenCV-based processing pipeline
+* Human motion and gesture analysis
+* Pose estimation workflows
+
+**Tech Stack:** Python • OpenCV • Computer Vision
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JAYESH2505&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JAYESH2505&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JAYESH2505&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🌱 Current Focus
+
+* Quantitative Research & Trading Systems
+* AI Agents & Workflow Automation
+* Deep Learning for Real-World Applications
+* Systems Programming & Performance Optimization
+* Data Structures & Algorithms
+
+---
+
+# 📬 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/jayesh-pathak-7b34532b4/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://x.com/Jayesh_Pathak_">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+
+  <a href="mailto:jayeshpathak236@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+# ⚡ Philosophy
+
+> Build real systems. Solve difficult problems. Stay consistent.
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JAYESH2505&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
